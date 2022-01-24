@@ -14,7 +14,7 @@ What I don't know, I learn fast =)
 - 📫
   Where to see more about me:
   🌍 [instagram](https://www.instagram.com/juan.evangelistaa/)
-  👍 [linkedin]: https://www.linkedin.com/in/juan-evangelista-nascimento-493260143/?originalSubdomain=br 
+  👍 [linkedin](https://www.linkedin.com/in/juan-evangelista-nascimento-493260143/?originalSubdomain=br)
 
 - 🌱 Be green! 
 
