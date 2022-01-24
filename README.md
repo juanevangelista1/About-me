@@ -12,13 +12,15 @@ What I don't know, I learn fast =)
   I am currently studying and improving myself in the languages, HTML, SCSS, Javascript, React, in order to learn as much as possible and become a skilled professional to help others.
 
 - 📫
-  Where to see more about me: [instagram](https://www.instagram.com/juan.evangelistaa/)
+  Where to see more about me:
+  🌍 [instagram](https://www.instagram.com/juan.evangelistaa/)
+  👍 [linkedin]: https://www.linkedin.com/in/juan-evangelista-nascimento-493260143/?originalSubdomain=br 
 
-- 🌱
+- 🌱 Be green! 
 
 - ⚡ Fun fact: I love my cat, and my dogs!
 
-🎯 Focused in <b>HTML</b>, <b>SCSS</b>, <b>front-end</b> and <b>ReactJS</b>
+🎯 Focused in <strong> <b>HTML</b>, <b>SCSS</b>, <b>front-end</b> and <b>ReactJS</b> </strong>
 
 [instagram]: https://www.instagram.com/juan.evangelistaa/
 [linkedin]: https://www.linkedin.com/in/juan-evangelista-nascimento-493260143/?originalSubdomain=br
